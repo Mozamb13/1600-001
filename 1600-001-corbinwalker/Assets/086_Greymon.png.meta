@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: fcde50b2fb60b4607962d35a8bcb96f3
+timeCreated: 1454081851
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 086_Greymon_0
+    21300002: 086_Greymon_1
+    21300004: 086_Greymon_2
+    21300006: 086_Greymon_3
+    21300008: 086_Greymon_4
+    21300010: 086_Greymon_5
+    21300012: 086_Greymon_6
+    21300014: 086_Greymon_7
+    21300016: 086_Greymon_8
+    21300018: 086_Greymon_9
+    21300020: 086_Greymon_10
+    21300022: 086_Greymon_11
+    21300024: 086_Greymon_12
+    21300026: 086_Greymon_13
+    21300028: 086_Greymon_14
+    21300030: 086_Greymon_15
+    21300032: 086_Greymon_16
+    21300034: 086_Greymon_17
+    21300036: 086_Greymon_18
+    21300038: 086_Greymon_19
+    21300040: 086_Greymon_20
+    21300042: 086_Greymon_21
+    21300044: 086_Greymon_22
+    21300046: 086_Greymon_23
+    21300048: 086_Greymon_24
+    21300050: 086_Greymon_25
+    21300052: 086_Greymon_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 086_Greymon_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 301
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 56}
+        - {x: -25, y: 56}
+        - {x: -28, y: 51}
+        - {x: -50, y: 20}
+        - {x: -50, y: -9}
+        - {x: -48, y: -10}
+        - {x: -44, y: -47}
+        - {x: -18, y: -53}
+        - {x: -13, y: -47}
+        - {x: -5, y: -56}
+        - {x: 46, y: -56}
+        - {x: 50, y: -43}
+        - {x: 50, y: 37}
+        - {x: 37, y: 53}
+    - name: 086_Greymon_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 301
+        width: 96
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 56.5}
+        - {x: -38, y: 56.5}
+        - {x: -48, y: 42.5}
+        - {x: -48, y: -34.5}
+        - {x: -44, y: -48.5}
+        - {x: -17, y: -53.5}
+        - {x: -12, y: -47.5}
+        - {x: -4, y: -56.5}
+        - {x: 48, y: -56.5}
+        - {x: 48, y: 45.5}
+        - {x: 37, y: 51.5}
+    - name: 086_Greymon_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 301
+        width: 103
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 57.5}
+        - {x: -51.5, y: -34.5}
+        - {x: -48.5, y: -51.5}
+        - {x: -21.5, y: -53.5}
+        - {x: -15.5, y: -48.5}
+        - {x: -11.5, y: -57.5}
+        - {x: 51.5, y: -57.5}
+        - {x: 51.5, y: 51.5}
+        - {x: 39.5, y: 57.5}
+    - name: 086_Greymon_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 174
+        width: 95
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: -53}
+        - {x: -20.5, y: -59}
+        - {x: 47.5, y: -59}
+        - {x: 47.5, y: 52}
+        - {x: 45.5, y: 59}
+        - {x: -41.5, y: 59}
+        - {x: -47.5, y: 42}
+    - name: 086_Greymon_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 174
+        width: 96
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 52.5}
+        - {x: -48, y: -35.5}
+        - {x: -42, y: -42.5}
+        - {x: -17, y: -49.5}
+        - {x: -12, y: -43.5}
+        - {x: -1, y: -52.5}
+        - {x: 40, y: -52.5}
+        - {x: 48, y: -46.5}
+        - {x: 48, y: 52.5}
+    - name: 086_Greymon_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 120
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 086_Greymon_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 123
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 086_Greymon_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 123
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 086_Greymon_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 123
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 086_Greymon_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 123
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 086_Greymon_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 120
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 086_Greymon_11
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 71
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 086_Greymon_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 71
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 086_Greymon_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 72
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 086_Greymon_14
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 72
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 086_Greymon_15
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 71
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 086_Greymon_16
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 71
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 086_Greymon_17
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 10
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 086_Greymon_18
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 26
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 086_Greymon_19
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 10
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 086_Greymon_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 13
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 086_Greymon_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 16
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 086_Greymon_22
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 16
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 086_Greymon_23
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 16
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 086_Greymon_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 13
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 086_Greymon_25
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 16
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 086_Greymon_26
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 16
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
